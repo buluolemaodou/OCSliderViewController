@@ -104,7 +104,7 @@
 - (void)setSelectedViewController:(UIViewController *)aSelectedViewController animated:(BOOL)animated;
 @property (nonatomic,assign) NSUInteger selectedIndex;
 
-///顶部滑动栏，默认高度为50
+///顶部滑动栏，默认高度为60
 @property (nonatomic,assign,readonly) OCSliderBar *sliderBar;
 
 @property (nonatomic,assign) id<OCSliderViewControllerDelegate> delegate;
