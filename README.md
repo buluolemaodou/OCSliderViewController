@@ -8,6 +8,7 @@ OCSliderViewController是一种containerViewController，样式如下图所示�
 ![Aaron Swartz](https://github.com/buluolemaodou/OCSliderViewController/raw/master/source/OCSliderViewControllerImage.gif)
 
 使用:
+    
     OCSliderViewController *svc = [[OCSliderViewController alloc] init];
 
     ViewController *vc = [[ViewController alloc] init];
